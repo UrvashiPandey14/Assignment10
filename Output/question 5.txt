@@ -1,0 +1,8 @@
+Q5 : Is the following program snippet correct?
+
+int a = 10, b = 20;
+int *ptr;
+*ptr = 5;
+
+
+Output:: This program snippet is wrong because while initialising pointer, it is pointing to any memory location.
